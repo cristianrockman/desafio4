@@ -1,0 +1,31 @@
+.container {
+    padding-top: 32px;
+}
+
+.lugar {
+    color: grey;
+    margin-bottom: 0rem;
+}
+
+.ubicacion {
+    text-decoration: none;
+    color: grey;
+}
+
+.precio {
+    color: grey;
+    margin-bottom: 0rem;
+    text-align: right;
+}
+
+.formulario {
+    padding: 32px;
+    color: white;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 32px;
+}
